@@ -1,2 +1,3 @@
 # trabalho_estatistica
-Trabalho de análise descritiva sobre empresas do setor de varejo
+
+Análise de empresas do setor de varejo listadas na bolsa de valores brasileira.
